@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twitter_p2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='twiiter_p2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter Part 1
 
